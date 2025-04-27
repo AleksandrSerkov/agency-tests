@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Animal.Main",
+            "projectName": "Rabota_1e6aa822"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Rabota_1e6aa822"
+        },
+        {
+            "type": "java",
+            "name": "Запуск Animal.Main",
+            "request": "launch",
+            "mainClass": "Animal.Main",
+            "projectName": "Rabota"
+        }
+    ]
+  }
+  
