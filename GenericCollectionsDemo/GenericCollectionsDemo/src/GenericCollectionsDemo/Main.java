@@ -4,10 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 
 
-
-import GenericCollectionsDemo.*;
-
-
 public class Main {
     public static void main(String[] args) {
         // Демонстрация swap и toList
@@ -41,4 +37,3 @@ public class Main {
         System.out.println("Вес второй коробки после пересыпания: " + appleBox2.getWeight());
     }
 }
-
