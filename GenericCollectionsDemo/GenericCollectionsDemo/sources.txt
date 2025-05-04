@@ -1,0 +1,6 @@
+./src/GenericCollectionsDemo/Apple.java
+./src/GenericCollectionsDemo/Main.java
+./src/GenericCollectionsDemo/Fruit.java
+./src/GenericCollectionsDemo/Utils.java
+./src/GenericCollectionsDemo/Orange.java
+./src/GenericCollectionsDemo/Box.java
