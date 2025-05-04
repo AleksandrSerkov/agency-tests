@@ -1,4 +1,4 @@
-package GenericCollectionsDemo; 
+package GenericCollectionsDemo;
 // Коробка для фруктов определённого типа
 
 import java.util.ArrayList;

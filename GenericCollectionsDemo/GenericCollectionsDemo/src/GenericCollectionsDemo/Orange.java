@@ -1,5 +1,6 @@
 package GenericCollectionsDemo;
 // Класс Апельсин
+
 class Orange extends Fruit {
     @Override
     public float getWeight() {
