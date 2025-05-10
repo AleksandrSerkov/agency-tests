@@ -1,0 +1,8 @@
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/entity/Purchase.java
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/entity/Product.java
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/entity/Person.java
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/repository/ProductRepository.java
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/repository/PurchaseRepository.java
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/Application.java
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/repository/PersonRepository.java
+/home/norrak/Рабочий стол/Rabota/HibernatePurchaseApp/HibernatePurchaseApp/src/main/java/com/example/purchase/util/HibernateUtil.java

@@ -1,0 +1,8 @@
+com/example/purchase/entity/Purchase.class
+com/example/purchase/entity/Person.class
+repository/PurchaseRepository.class
+repository/PersonRepository.class
+repository/ProductRepository.class
+com/example/purchase/entity/Product.class
+com/example/purchase/Application.class
+com/example/purchase/util/HibernateUtil.class
