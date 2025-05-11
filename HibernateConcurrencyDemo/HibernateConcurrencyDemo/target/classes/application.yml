@@ -1,0 +1,9 @@
+hibernate:
+  connection:
+    url: jdbc:postgresql://localhost:5432/school
+    username: demo_user
+    password: demo_pass
+    driver_class: org.postgresql.Driver
+  hbm2ddl_auto: update
+  show_sql: true
+  format_sql: true
